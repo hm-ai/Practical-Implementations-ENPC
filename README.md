@@ -1,8 +1,6 @@
-# :computer: Practical Implementations 2020
+# Practical Implementations 2020
 
-Welcome to you all!
-
-This GitHub page contains the materials for the practical part of the Machine Learning course at Ecole des Ponts 2020-2021.
+Welcome to you all! This GitHub page contains the materials for the practical part of the Machine Learning course at Ecole des Ponts 2020-2021.
 
 
 
