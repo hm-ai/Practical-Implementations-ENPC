@@ -1,4 +1,4 @@
-# Practical Implementations ENPC
+# Practical Implementations 2020
 
 Welcome to you all!
 
@@ -26,4 +26,3 @@ This GitHub page contains the materials for the practical part of the Machine Le
 # Contact us:
 If you have any questions regarding the practical implementations, feel free to send us an email to the following adress mlpi.enpc@gmail.com
 We will be very happy to answer your queries.
-
