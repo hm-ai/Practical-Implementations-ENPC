@@ -23,6 +23,6 @@ This GitHub page contains the materials for the practical part of the Machine Le
 | | Introduction to Reinforcement Learning | Stock Trading Project | | | 
 
 
-# Contact us:
+# Contact us
 If you have any questions regarding the practical implementations, feel free to send us an email to the following adress mlpi.enpc@gmail.com
 We will be very happy to answer your queries.
