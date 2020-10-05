@@ -16,8 +16,8 @@ This GitHub page contains the materials for the practical part of the Machine Le
 
 | Date  | Topics | Practical Implementation | References | Colab | 
 |----------- | ----------- | ----------- | ----------- | ----------- |
-| | Getting familiar with scikit-learn and TensorFlow | Credit Risk Prediction | | | 
-| | Unsupervised Learning: Word vectors with word2vec algorithm | Creating Word Embeddings| | | 
+|10-19-20 | Getting familiar with scikit-learn and TensorFlow | Credit Risk Prediction | | | 
+|11-02-20 | Unsupervised Learning: Word vectors with word2vec algorithm | Creating Word Embeddings| | | 
 | | Sequence Model - Attention mechanism | Neural Machine Translation | | | 
 | | Variational Autoencoders - GANs | Generating Images | | |
 | | Introduction to Reinforcement Learning | Stock Trading Project | | | 
