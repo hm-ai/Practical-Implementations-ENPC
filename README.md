@@ -17,7 +17,7 @@ This GitHub page contains the materials for the practical part of the Machine Le
 | Date  | Topics | Practical Implementation | References | Colab | 
 |----------- | ----------- | ----------- | ----------- | ----------- |
 |Oct 19, 2020 | Getting familiar with scikit-learn and TensorFlow | Credit Risk Prediction | | | 
-|Nov 2, 2020 | Unsupervised Learning: Word vectors with word2vec algorithm | Creating Word Embeddings| | | 
+| | Unsupervised Learning: Word vectors with word2vec algorithm | Creating Word Embeddings| | | 
 | | Sequence Models - Attention mechanism | Neural Machine Translation | | | 
 | | Variational Autoencoders - GANs | Generating Images | | |
 | | Introduction to Reinforcement Learning | Game Project | | | 
