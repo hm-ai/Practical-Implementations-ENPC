@@ -2,7 +2,7 @@
 
 Welcome to you all !
 
-This GitHub page contains the materials for the practical part of the Machine Learning course at Ecole des Ponts 2020-2021.
+This [GitHub page](https://hm-ai.github.io/Practical-Implementations-ENPC/) contains the materials for the practical part of the Machine Learning course at Ecole des Ponts 2020-2021.
 
 
 
@@ -14,13 +14,13 @@ This GitHub page contains the materials for the practical part of the Machine Le
 
 # Syllabus
 
-| Date  | Topics | Practical Implementation | References | Colab | 
-|----------- | ----------- | ----------- | ----------- | ----------- |
-|Oct 19, 2020 | Getting familiar with scikit-learn and TensorFlow | Credit Risk Prediction | | | 
-| | Unsupervised Learning: Word vectors with word2vec algorithm | Creating Word Embeddings| | | 
-| | Sequence Models - Attention mechanism | Neural Machine Translation | | | 
-| | Variational Autoencoders - GANs | Generating Images | | |
-| | Introduction to Reinforcement Learning | Game Project | | | 
+| Date  | Topics | Practical Implementation | Group 1 | Groupe 2 | Solution | 
+|----------- | ----------- | ----------- | ----------- | ----------- |----------- |
+|Oct 19, 2020 | Getting familiar with scikit-learn and TensorFlow | Credit Risk Prediction | [Credit_Risk_Prediction](https://drive.google.com/file/d/1QJ4RX5mtm48pjhjd9Ukb62f--hk9_Kb8/view?usp=sharing) [Introduction_to_Neural_Networks](https://drive.google.com/file/d/1aXtses0VU60e42bOc-lz3bA2u9f2QLIH/view?usp=sharing)|[Credit_Risk_Prediction](https://drive.google.com/file/d/1mxssZTIm2Q-SaMBoTVTnwYTti2sCCfUz/view?usp=sharing) [Introduction_to_Neural_Networks](https://drive.google.com/file/d/1kd3QEJ3t72gF-YQtd1hsBYyjepRKggpo/view?usp=sharing) | |
+| | Unsupervised Learning: Word vectors with word2vec algorithm | Creating Word Embeddings| | | |
+| | Sequence Models - Attention mechanism | Neural Machine Translation | | | |
+| | Variational Autoencoders - GANs | Generating Images | | | |
+| | Introduction to Reinforcement Learning | Game Project | | | | 
 
 
 # Contact us
