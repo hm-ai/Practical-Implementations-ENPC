@@ -25,4 +25,5 @@ This [GitHub page](https://hm-ai.github.io/Practical-Implementations-ENPC/) cont
 
 # Contact us
 If you have any questions regarding the practical implementations, feel free to send us an email to the following adress mlpi.enpc@gmail.com
+
 We will be very happy to answer your queries.
