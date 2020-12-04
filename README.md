@@ -16,8 +16,8 @@ This [GitHub page](https://hm-ai.github.io/Practical-Implementations-ENPC/) cont
 
 | Date  | Topics | Practical Implementation | Link | Code | Solution | 
 |----------- | ----------- | ----------- | ----------- | ----------- |----------- |
-|Oct 19, 2020 (8:30 -> 11:30) | Getting familiar with scikit-learn | Credit Risk Prediction | [Jeremy Group](P314) [Hachem Group](P315) | [Jeremy Group](https://drive.google.com/file/d/1QJ4RX5mtm48pjhjd9Ukb62f--hk9_Kb8/view?usp=sharing) [Hachem Group](https://drive.google.com/file/d/1mxssZTIm2Q-SaMBoTVTnwYTti2sCCfUz/view?usp=sharing)  | [Credit Risk Prediction](https://drive.google.com/file/d/1rt-pjqh3xMQpmFvG1xNZNpjJdsmhYMIi/view?usp=sharing)  |
-|Dec 07, 2020 (9:00 -> 12:00) | Getting familiar with TensorFlow | Image Classification| [Jeremy Group](meet.google.com/jpf-nfdc-edf) [Hachem Group](meet.google.com/jtn-ebgg-smd) | [Jeremy Group](https://drive.google.com/file/d/1aXtses0VU60e42bOc-lz3bA2u9f2QLIH/view?usp=sharing) [Hachem Group](https://drive.google.com/file/d/1kd3QEJ3t72gF-YQtd1hsBYyjepRKggpo/view?usp=sharing) | |
+|Oct 19, 2020 (8:30 -> 11:30) | Getting familiar with scikit-learn | Credit Risk Prediction | Jeremy Group(P314) - Hachem Group(P315) | [Jeremy Group](https://drive.google.com/file/d/1QJ4RX5mtm48pjhjd9Ukb62f--hk9_Kb8/view?usp=sharing) [Hachem Group](https://drive.google.com/file/d/1mxssZTIm2Q-SaMBoTVTnwYTti2sCCfUz/view?usp=sharing)  | [Credit Risk Prediction](https://drive.google.com/file/d/1rt-pjqh3xMQpmFvG1xNZNpjJdsmhYMIi/view?usp=sharing)  |
+|Dec 07, 2020 (9:00 -> 12:00) | Getting familiar with TensorFlow | Image Classification| [Jeremy Group](https://meet.google.com/jpf-nfdc-edf) [Hachem Group](https://meet.google.com/jtn-ebgg-smd) | [Jeremy Group](https://drive.google.com/file/d/1aXtses0VU60e42bOc-lz3bA2u9f2QLIH/view?usp=sharing) [Hachem Group](https://drive.google.com/file/d/1kd3QEJ3t72gF-YQtd1hsBYyjepRKggpo/view?usp=sharing) | |
 |Jan 04, 2021 | Sequence Models - Attention mechanism | Neural Machine Translation | | | |
 | | Variational Autoencoders - GANs | Generating Images | | | |
 | | Introduction to Reinforcement Learning | Game Project | | | | 
