@@ -18,7 +18,7 @@ This [GitHub page](https://hm-ai.github.io/Practical-Implementations-ENPC/) cont
 |----------- | ----------- | ----------- | ----------- | ----------- |----------- |
 |Oct 19, 2020 (8:30 -> 11:30) | Getting familiar with scikit-learn | Credit Risk Prediction | ENPC (P314-P315) | [Jeremy Group](https://drive.google.com/file/d/1QJ4RX5mtm48pjhjd9Ukb62f--hk9_Kb8/view?usp=sharing) [Hachem Group](https://drive.google.com/file/d/1mxssZTIm2Q-SaMBoTVTnwYTti2sCCfUz/view?usp=sharing)  | [Credit Risk Prediction](https://drive.google.com/file/d/1rt-pjqh3xMQpmFvG1xNZNpjJdsmhYMIi/view?usp=sharing)  |
 |Dec 07, 2020 (9:00 -> 12:00) | Getting familiar with TensorFlow | Image Classification| [Jeremy Group](https://meet.google.com/jpf-nfdc-edf) [Hachem Group](https://meet.google.com/jtn-ebgg-smd) | [Jeremy Group](https://drive.google.com/file/d/1aXtses0VU60e42bOc-lz3bA2u9f2QLIH/view?usp=sharing) [Hachem Group](https://drive.google.com/file/d/1kd3QEJ3t72gF-YQtd1hsBYyjepRKggpo/view?usp=sharing) | [Introduction to Neural Networks](https://drive.google.com/file/d/1blC9b6piH9NMqsUEj63OIvbJJnw0stLX/view?usp=sharing) |
-|Jan 04, 2021 | Sequence Models - Attention mechanism | Neural Machine Translation | | | |
+|Jan 04, 2021 (9:00 -> 12:00)| Sequence Models - Attention mechanism | Sentiment Analysis | [Jeremy Group](https://meet.google.com/qdu-ggdd-vuu) [Hachem Group](https://meet.google.com/jyj-tfje-uoq) | | |
 | | Variational Autoencoders - GANs | Generating Images | | | |
 | | Introduction to Reinforcement Learning | Game Project | | | | 
 
