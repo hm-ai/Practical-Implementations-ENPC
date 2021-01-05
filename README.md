@@ -20,7 +20,6 @@ This [GitHub page](https://hm-ai.github.io/Practical-Implementations-ENPC/) cont
 |Dec 07, 2020 (9:00 -> 12:00) | Getting familiar with TensorFlow | Image Classification| [Jeremy Group](https://meet.google.com/jpf-nfdc-edf) [Hachem Group](https://meet.google.com/jtn-ebgg-smd) | [Jeremy Group](https://drive.google.com/file/d/1aXtses0VU60e42bOc-lz3bA2u9f2QLIH/view?usp=sharing) [Hachem Group](https://drive.google.com/file/d/1kd3QEJ3t72gF-YQtd1hsBYyjepRKggpo/view?usp=sharing) | [Introduction to Neural Networks](https://drive.google.com/file/d/1blC9b6piH9NMqsUEj63OIvbJJnw0stLX/view?usp=sharing) |
 |Jan 04, 2021 (9:00 -> 12:00)| Sequence Models - Attention mechanism | Sentiment Analysis | [Jeremy Group](https://meet.google.com/qdu-ggdd-vuu) [Hachem Group](https://meet.google.com/jyj-tfje-uoq) | [Jeremy Group](https://colab.research.google.com/drive/1hKquUfujnE7seqqptNST3Pf8pqaf_lzt?usp=sharing) [Hachem Group](https://colab.research.google.com/drive/1jZSWPmAqk5Cw3k6AnPovaHReE1asD5DH?usp=sharing) |  [Sentiment Analysis](https://colab.research.google.com/drive/1qII5LVqq92pZiXEmXXfHJp8SoAe7UNIJ?usp=sharing) |
 |Jan 11, 2021 (9:00 -> 12:00) | Variational Autoencoders - GANs | Generating Images | | | |
-| | Introduction to Reinforcement Learning | Game Project | | | | 
 
 
 # Contact us
